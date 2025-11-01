@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey I am Ankur Kumar - fullStack Developer⚡:
 🎓 Recent Computer Science graduate (2025) from VIT Bhopal University.<br>🚀 Passionate about backend development and building the logic that powers modern applications.<br>👀 Actively seeking entry-level backend developer opportunities.<br>🌱 I’m currently learning TypeScript and Go.<br>⚡ Fun fact - I can pin-point mistakes, corrections in any project apart from mine.<br>🎃 Contributing to open-source projects to those in need.
 
 
